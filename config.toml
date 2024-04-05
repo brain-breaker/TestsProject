@@ -1,0 +1,9 @@
+[GENERAL]
+BROWSER = "chrome"
+DO_NOT_RESTART = "True"
+SOFT_RESTART = "False"
+ELEMENT_OUTPUT_LOG = "user_friendly"
+# WAIT_ELEMENT_LOAD = 20
+
+[CUSTOM]
+SBIS_SITE = "https://sbis.ru/"
